@@ -82,7 +82,7 @@ Step 8: Periodic Testing and Maintenance
  
 Step-1: Open Aws console   
      <p align="center">
-  <img src="Secure connectivity to VPC through Bastion Host/images/step1.jpg" width="700" height="400">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/Secure connectivity to VPC through Bastion Host/images/step1.jpg" width="700" height="400">
 </p>
 
 Step-2:Search the search bar in VPC
