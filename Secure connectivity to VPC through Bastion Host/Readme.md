@@ -81,7 +81,9 @@ Step 8: Periodic Testing and Maintenance
                                                      Process
  
 Step-1: Open Aws console   
-                                   
+     <p align="center">
+  <img src="https://github.com/22MH1A42G5/cloud-projects/blob/main/aws-iship2-project/images/1.png" width="700" height="400">
+</p>
 
 Step-2:Search the search bar in VPC
   
