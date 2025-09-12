@@ -86,38 +86,66 @@ Step-1: Open Aws console
 </p>
 
 Step-2:Search the search bar in VPC
-  
+
+  <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step2.jpg" width="700" height="400">
+</p>
 Step-3:Create two Subnets
  
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step3.jpg" width="700" height="400">
+</p>
 
- 
+ <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step3-1.jpg" width="700" height="400">
+</p>
 
 Step-4: Create and Attach an Internet Gateway
 
- 
+ <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step4.jpg" width="700" height="400">
+</p>
 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step4-1.jpg" width="700" height="400">
+</p>
                           
-Step-5 : Create and Configure Route Tables 
+Step-5 : Create and Configure Route Tables
 
- 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step5.jpg" width="700" height="400">
+</p>
 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step5-1.jpg" width="700" height="400">
+</p>
 
- 
- 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step5-2.jpg" width="700" height="400">
+</p>
 
-
- 
-
-
-
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step5-3.jpg" width="700" height="400">
+</p>
 
 
 Step-6: Launch EC2 Instances
 
  
 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step6.jpg" width="700" height="400">
+</p>
 
- 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step6-1.jpg" width="700" height="400">
+</p>
+
+ <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step6-2.jpg" width="700" height="400">
+</p>
+
+
  
 
 
@@ -125,42 +153,41 @@ Step-7: Configure SSH Access in AWS Cloud9
              
 •	Create a cloud9 environment 
 
-
-
- 
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7.jpg" width="700" height="400">
+</p>
 
 
 •	Next click on open 
 
  
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7-1.jpg" width="700" height="400">
+</p>
 
 
 
 •	Next upload both the keys into the cloud9 
 
- 
+ <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7-2.jpg" width="700" height="400">
+</p>
 
 
 •	Open a terminal in Cloud9 and set the correct permissions for both key files:
     chmod 400 public.pem
     chmod 400 private.pem
+
+    <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7-3.jpg" width="700" height="400">
+</p>
+
 •	Connect to the public instance via SSH:
 ssh -i public-instance-key.pem ec2-user@<public-instance-ip>
  
-
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7-4.jpg" width="700" height="400">
+</p>
 
  
 
@@ -169,6 +196,9 @@ scp -i public-instance-key.pem private-instance-key.pem ec2-user@<public-instanc
 •	Next connect to the private instance 
           ssh -i private-instance-key.pem ec2-user@<private-instance-ip>
 
+<p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host/images/step7-5.jpg" width="700" height="400">
+</p>
  
 CHALLENGES FACED
 1. Network Configuration Complexity
