@@ -1,4 +1,4 @@
-LINK TO JOBPORTAL: d1yfs7otxhx998.cloudfront.net
+LINK TO JOBPORTAL: https://d1yfs7otxhx998.cloudfront.net/
 
 
 JOB PORTAL WITH CLOUD DEPLOYMENT
