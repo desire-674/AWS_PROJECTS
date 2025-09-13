@@ -1,0 +1,23 @@
+John Doe
+john.doe@example.com
+Phone: 123-456-7890
+
+Objective:
+Seeking a challenging software developer role to apply programming skills and contribute to impactful projects.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, 2024
+
+Experience:
+Intern, Tech Solutions Inc.
+June 2023 - August 2023
+- Developed web features using JavaScript and React.
+- Collaborated with cross-functional teams to enhance app performance.
+
+Skills:
+- Programming Languages: Java, Python, JavaScript
+- Frameworks: React, Node.js
+
+References:
+Available upon request.
