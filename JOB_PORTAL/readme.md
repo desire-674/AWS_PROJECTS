@@ -204,19 +204,16 @@ Database: DynamoDB for storing job application data.
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/S31.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <p align="center">
   <img src=" <p align="center">
-  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/S#@.png" width="700" height="400">
-</p>" width="700" height="400">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/S32.png" width="700" height="400">
 </p>
 
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/S33.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <h3>CloudFront Distribution</h3>
@@ -224,20 +221,17 @@ Database: DynamoDB for storing job application data.
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/CF1.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/CF2.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/CF3.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <h3>DynamoDB</h3>
@@ -245,13 +239,11 @@ Database: DynamoDB for storing job application data.
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/DB1.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/DB2.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 <h3>API Gateway</h3>
@@ -259,19 +251,47 @@ Database: DynamoDB for storing job application data.
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/A1.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/A2.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
 
 
 <p align="center">
   <img src=" <p align="center">
   <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/A2.png" width="700" height="400">
-</p>" width="700" height="400">
 </p>
+
+
 <h3>AWS Lambda</h3>
+
+
+<p align="center">
+  <img src=" <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/L1.png" width="700" height="400">
+</p>
+
+
+<p align="center">
+  <img src=" <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/L2.png" width="700" height="400">
+</p>
+
+<h3>JOB PORTAL</h3>
+
+
+<p align="center">
+  <img src=" <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/J1.png" width="700" height="400">
+</p>
+
+
+
+<p align="center">
+  <img src=" <p align="center">
+  <img src="https://github.com/desire-674/AWS_PROJECTS/blob/main/JOB_PORTAL/J2.png" width="700" height="400">
+</p>
+
+
